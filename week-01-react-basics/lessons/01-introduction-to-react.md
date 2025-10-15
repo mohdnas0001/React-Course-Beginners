@@ -1,11 +1,3 @@
-Perfect 👌🏽 Let’s fill out your first lesson file:
-`week-01-react-basics/lessons/01-introduction-to-react.md`
-
-This content is **clean, practical, and written for interns** — explaining concepts clearly and including code examples + a mini challenge at the end.
-You can paste this directly into your file.
-
----
-
 ## 📘 **01-introduction-to-react.md**
 
 ````markdown
