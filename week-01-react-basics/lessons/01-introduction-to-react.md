@@ -40,6 +40,7 @@ Before starting, make sure you have:
 ## 🧰 Creating Your First React App
 
 Once everything is installed, open your terminal and run:
+````
 
 ```bash
 # Using npm
