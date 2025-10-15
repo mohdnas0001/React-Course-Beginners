@@ -47,7 +47,7 @@ npx create-react-app my-first-react-app
 
 # or using yarn
 yarn create react-app my-first-react-app
-````
+```
 
 Then navigate into your project:
 
