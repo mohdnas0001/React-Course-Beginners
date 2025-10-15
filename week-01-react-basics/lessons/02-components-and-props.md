@@ -19,6 +19,7 @@ There are two main types of components:
 2. **Class Components** — older and less common now
 
 Example:
+````
 
 ```jsx
 function Greeting() {
@@ -227,6 +228,3 @@ style={{ backgroundColor: color }}
 > Always make your components small, focused, and reusable.
 > It keeps your code cleaner and easier to maintain.
 
-```
-
-```
