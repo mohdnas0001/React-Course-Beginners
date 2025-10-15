@@ -40,6 +40,7 @@ Before starting, make sure you have:
 ## 🧰 Creating Your First React App
 
 Once everything is installed, open your terminal and run:
+````
 
 ```bash
 # Using npm
@@ -54,7 +55,7 @@ Then navigate into your project:
 ```bash
 cd my-first-react-app
 yarn start
-```
+````
 
 Your browser should automatically open [http://localhost:3000](http://localhost:3000) showing the React logo 🚀.
 
