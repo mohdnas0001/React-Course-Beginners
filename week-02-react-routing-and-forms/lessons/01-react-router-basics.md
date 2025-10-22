@@ -1,9 +1,3 @@
-Perfect 🚀
-Here’s your **Week 2, Lesson 1** file —
-📘 `week-02-react-routing-and-forms/lessons/01-react-router-basics.md`
-
----
-
 ## **01-react-router-basics.md**
 
 ````markdown
